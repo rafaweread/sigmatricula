@@ -1,0 +1,19 @@
+*{
+	
+	padding: 0;
+	margin: 0;
+}
+
+#cabecalho{
+
+	height: 80px;
+	width: 100%;
+	background: #34495e;
+}
+
+#principal{
+
+	height: 100%;
+	width:  800px;
+	margin: auto;
+}
